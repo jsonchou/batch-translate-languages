@@ -1,6 +1,6 @@
 # batch-translate-languages
-a **Chrome Extension** of **accurate** download image **accurate**, **accurate**, **accurate**
+a **Chrome Extension** of batch translate world language
 
 ## WHY THIS EXTENSION
 
-- i'm tired of using the stupied slider to download page images.
+- batch translate world language
